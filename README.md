@@ -20,8 +20,6 @@ EVs can be divided according to size and synthesis route into
 <p align="justify">Apoptotic bodies are EVs that are released by dying cells undergoing apoptosis. Since apoptotic cells tend to display phosphatidylserine (PS) in the outer bilayer of the cell membrane, apoptotic bodies tend to externalize PS, although other EVs may also do so. Apoptotic bodies may be quite large (microns in diameter) but may also measure in the submicron range.</p>
 <img src="https://media.jecreemavitrine.fr/4qVBoBqFkrlJ1QZ2WhYopwFS9vE=/fit-in/1036x767/smart/filters:format(webp)/bucket-prod.jecreemavitrine.fr/uploads/sites/138/2019/10/Vesicules-description_bleu-1.png" width="600" height="400" />
 
-[litmus]
-
 
 ## Biological Fuctions of EVs
 A wide variety of biological functions have been ascribed to EVs, such as:
@@ -33,8 +31,11 @@ A wide variety of biological functions have been ascribed to EVs, such as:
 - Creation of a metastatic niche for cancer.
 - Pathfinding through the environment.
 - Quorum sensing.
-- Mediating host-commensal or parasite/pathogen interaction.
+- Mediating host-commensal or parasite/pathogen interaction. <sub>litmus</sub>
+- 
 
 For detailed information on EVs, read [Shedding light on the cell biology of extracellular vesicles](https://www.nature.com/articles/nrm.2017.125).
+
+tttert<sup>litmus</sup>
 
                                                             
