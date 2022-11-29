@@ -27,7 +27,7 @@ A wide variety of biological functions have been ascribed to EVs, such as:
 - Transfer of functional proteins.
 - Transfer of functional DNA and RNA.
 - Molecular recycling or “nutrition”.
-- Signaling to the recipient cell via cell-surface or endosomal receptors.
+- Signaling to the recipient cell via cell-surface or endosomal *receptors*
 - Creation of a metastatic niche for cancer.
 - Pathfinding through the environment.
 - Quorum sensing.
@@ -37,5 +37,27 @@ A wide variety of biological functions have been ascribed to EVs, such as:
 For detailed information on EVs, read [Shedding light on the cell biology of extracellular vesicles](https://www.nature.com/articles/nrm.2017.125).
 
 tttert<sup>litmus</sup>
+H<sub>2</sub>O
+
+
+>We're living the future so.  
+>he present is our past.
+
+At the command prompt, type `fabian allen`
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+That is so funny! 😆
+
+
+X^2^ppadf
+
 
                                                             
