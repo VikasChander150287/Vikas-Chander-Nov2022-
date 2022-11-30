@@ -74,6 +74,7 @@ term
 ~~The world is flat.~~
 
 
+
 Flatness.[^1]
 Mongify.[^2]
 
@@ -110,5 +111,16 @@ eat: it was a [hobbit-hole][1], and that means comfort. the [extracellular vescu
 
 [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
 [2]:<https://en.wikipedia.org/wiki/Extracellular_vesicle> (ecs)
+
+https://www.markdownguide.org  
+`www.github.com`
+
+![homer_lurking](https://user-images.githubusercontent.com/119152900/204753198-cbd81ae7-6fa5-4d24-90e4-8631d120d44d.gif)
+
+
+
+
+
+
 
 
