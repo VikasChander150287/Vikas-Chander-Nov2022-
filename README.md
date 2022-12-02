@@ -58,11 +58,11 @@ fabian allen
 funny
 ---
 That is so funny! :heart_eyes:
+  
+  
 
-|S.No.|property|TEM|SEM|
-|:-----:|:------:|:-----:|:-----:|
-|1|clarity|:0.1 mm|2nm|
-|2|qual|bad|good|
+
+
 
 
 
@@ -85,10 +85,16 @@ Mongify.[^2]
 H~2~O
 X^2^
 
-| Syntax      | Description |
+| |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+|             | Title       |
+|             | Text        |
+
+  
+|           Syntax          |
+| --------------------------|
+|Sno|Break|sunfs|
+| er|tr|er   |
 
 - [x] Write the press release
 - [ ] Update the website
@@ -120,7 +126,8 @@ https://www.markdownguide.org
 
 
 
-
+~~falt world~~
+  
 
 
 
